@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.15)
-project(sem9)
+project(main)
 
 # -----------------------------------
 # Флаги и версии
